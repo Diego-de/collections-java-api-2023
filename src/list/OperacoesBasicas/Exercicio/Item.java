@@ -1,4 +1,4 @@
-package Exercicio;
+package list.OperacoesBasicas.Exercicio;
 
 public class Item {
 
