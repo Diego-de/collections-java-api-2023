@@ -95,7 +95,7 @@ public class LivrariaOnline {
         // Obtém e exibe o livro mais barato
         System.out.println("Livro mais barato: " + livrariaOnline.exibirLivroMaisBarato());
 
-        // Remover um livro pelo título (você precisa implementar o método correto para isso)
-        // livrariaOnline.removerLivro("1984");
+        livrariaOnline.removerLivro("1984");
+        System.out.println(livrariaOnline.livros);
     }
 }
